@@ -17,11 +17,11 @@ Where `URL` is the web link and `Title` is the file name. For the `Title`, do no
 
 `mkwebfile.py https://github.com/pixeldyne/ "Pixeldyne on GitHub"`
 
-This creates two files in current folder: Pixeldyne on GitHub.url (for Windows) and Pixeldyne on GitHub.webloc (for macOS). The script creates both files regardless of the OS you are running. Options will be added in a future version, along with support for other operating systems and browsers.
+This creates two files in current folder: `Pixeldyne on GitHub.url` (for Windows) and `Pixeldyne on GitHub.webloc` (for macOS). The script creates both files regardless of the OS you are running. Options will be added in a future version, along with support for other operating systems and browsers.
 
 You may need to run it with the python interpreter. For example, on Windows you would run:
 
-C:\Python27\python.exe mkwebfile.py https://github.com/pixeldyne/ "Pixeldyne on GitHub"
+`C:\Python27\python.exe mkwebfile.py https://github.com/pixeldyne/ "Pixeldyne on GitHub"`
 
 On Windows, you can run `where python.exe` to determine the location of the Python interpreter.
 
