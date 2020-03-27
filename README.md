@@ -13,7 +13,7 @@ Run it from the command line or terminal:
 
 Where `URL` is the web link and `Title` is the file name. For the `Title`, do not use characters that are not supported by your file system, for example :, \, /, etc.
 
-###Example: 
+### Example
 
 `mkwebfile.py https://github.com/pixeldyne/ "Pixeldyne on GitHub"`
 
