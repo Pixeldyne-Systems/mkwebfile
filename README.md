@@ -3,11 +3,11 @@ Small command line tool for creating web link files (internet shortcuts) for Win
 
 ## Synopsis
 
-`*mkwebfile.py* URL TITLE`
+`mkwebfile.py URL TITLE`
 
 Where `URL` is the web link and `TITLE` is the file name. For the `TITLE`, do not use characters that are not supported by your file system, for example :, \, /, etc. Existing files are overwritten.
 
-### Example
+### Examples
 
 `mkwebfile.py https://github.com/pixeldyne/ "Pixeldyne on GitHub"`
 
